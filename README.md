@@ -1,1 +1,1 @@
-# SCH-game-project
+# Java-game-project
